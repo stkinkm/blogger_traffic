@@ -3,7 +3,7 @@
 $ch = curl_init();
 
 // Set the URL and options for the request
-curl_setopt($ch, CURLOPT_URL, "https://covratizen.blogspot.com/2020/09/python-language-automation.html");
+curl_setopt($ch, CURLOPT_URL, "https://cuan-terviral.blogspot.com/2023/10/berita-crypto-terbaru-mengenal-etherium.html");
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_HEADER, false);
 
